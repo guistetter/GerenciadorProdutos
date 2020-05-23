@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This projetct implements a fake API with json-server
+
+## This project implements a fake API with json-server
+you can run json-server --watch db.json --port 4000 to start your fake api! 
+Do you have a problem with the port? just set a new one after --port **** !
 
 ## Available Scripts
 
